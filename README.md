@@ -106,8 +106,7 @@ It includes:
 - NPS by store  
 
 🖼️ **Dashboard Preview:**  
-![Sales and Operations Dashboard](sales%20and%20operations%20dashboard.png) 
-
+![Sales and Operations Dashboard](https://github.com/Adityaxletscode/ElectricPe-Sales-and-Operations-Analysis/blob/main/Dashboard.png)
 
 ---
 
